@@ -1,8 +1,9 @@
 import React from "react"
+import {AppBar} from "../../components"
 
 const Initial = () =>{
     return(
-        <div></div>
+        <AppBar/>
     )
 }
 
